@@ -14,6 +14,6 @@ Atenção: No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. A
 
 ### Para acessar a aplicação
 
-http://localhost:8080/biografiapedro/` em qualquer navegador.
+http://localhost:8080/biografiapedro/ em qualquer navegador.
 
 ### O Maven já esta embutido na aplicação.
