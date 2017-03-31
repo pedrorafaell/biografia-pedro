@@ -4,7 +4,7 @@ Descrição de como rodar o projeto:
 
 ### Fazer o clone do repositório:
 
-https://github.com/pedrorafaell/biografia-pedro.git
+https://github.com/pedrorafaell/biografia-pedrorafael
 
 ### Para rodar o Tomcat dentro do repositório após o clone:
 
