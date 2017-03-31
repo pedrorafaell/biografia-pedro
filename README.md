@@ -6,7 +6,7 @@ Descrição de como rodar o projeto:
 
 https://github.com/pedrorafaell/biografiapedro
 
-### Para rodar o Tomcat dentro do repositório após o clone:
+### Para rodar com o Tomcat dentro do repositório após o clone:
 
 mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run
 
