@@ -1,4 +1,4 @@
-# biografia-pedro
+# Pequena biografia de Pedro Rafael Simplício Cunha
 
 Descrição de como rodar o projeto: 
 
